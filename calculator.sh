@@ -7,6 +7,7 @@ view_menu() {
     echo "3. Multiplication"
     echo "4. Division"
     echo "5. Exit"
+    echo "6. Binary Multiplication" 
 }
 
 is_number() {
